@@ -1,0 +1,4 @@
+First created the two vpc in different regions
+The files are in two different folders teraform 1 and teraform 2 respectively
+The main .tf file is to initiate the peering
+
