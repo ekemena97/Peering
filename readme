@@ -1,4 +1,7 @@
-First created the two vpc in different regions
+This is a project to peer two vpc in a region
+This automates the peering in aws cloud region 
+You will need an aws account and management console to check your changes
+First created the two vpc in different regions using modules
 The files are in two different folders teraform 1 and teraform 2 respectively
 The main .tf file is to initiate the peering
 
